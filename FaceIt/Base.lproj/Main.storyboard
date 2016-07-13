@@ -46,7 +46,7 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                         <state key="normal" title="Happy"/>
                                         <connections>
-                                            <segue destination="JUb-5T-XF3" kind="showDetail" id="6es-Ic-pr6"/>
+                                            <segue destination="JUb-5T-XF3" kind="showDetail" identifier="happy" id="6es-Ic-pr6"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mJi-iB-1eb">
@@ -181,6 +181,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="tg1-Xz-T9N"/>
+        <segue reference="Eal-gA-fYr"/>
     </inferredMetricsTieBreakers>
 </document>
